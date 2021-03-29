@@ -1,22 +1,22 @@
 {	
-name: "DangDinhTuyen/login",	
-description: "Create text",	
-keywords: [	
+"name": "DangDinhTuyen/login",	
+"description": "Create text",	
+"keywords": [	
 ],	
-authors: [	
+"authors": [	
 {	
-name: "DangDinhTuyen",	
-email: "DangDinhTuyen.com@gmail.com",	
-homepage: "http://tailieuweb.com"	
+"name": "DangDinhTuyen",	
+"email": "DangDinhTuyen.com@gmail.com",	
+"homepage": "http://tailieuweb.com"	
 }	
 ],	
-license: "MIT",	
-require: {	
+"license": "MIT",	
+"require": {	
 },	
-autoload: {	
-psr-4: {	
-DangDinhTuyen\\login\\: "/"	
+"autoload": {	
+"psr-4": {	
+"DangDinhTuyen\\login\\": "/"	
 }	
 },	
-minimum-stability: "dev"	
+"minimum-stability": "dev"	
 }	
