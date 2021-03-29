@@ -1,0 +1,22 @@
+{	
+name: "DangDinhTuyen/login",	
+description: "Create text",	
+keywords: [	
+],	
+authors: [	
+{	
+name: "DangDinhTuyen",	
+email: "DangDinhTuyen.com@gmail.com",	
+homepage: "http://tailieuweb.com"	
+}	
+],	
+license: "MIT",	
+require: {	
+},	
+autoload: {	
+psr-4: {	
+DangDinhTuyen\\login\\: "/"	
+}	
+},	
+minimum-stability: "dev"	
+}	
